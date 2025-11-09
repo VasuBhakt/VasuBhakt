@@ -1,4 +1,4 @@
-# 👋 Hey there, I’m Swastik — a.k.a. `rustyBot31`
+# 👋 Hey there, I’m Swastik — a.k.a. `VasuBhakt`
 
 💻 Full‑stack Web & Mobile Developer  
 🌐 Java • Spring Boot • React • React Native  
@@ -44,10 +44,5 @@ Project - https://github.com/rustyBot31/Calorie-Compass
 - [Leetcode](https://leetcode.com/u/VasuBhakt/)
 - [Codechef](https://www.codechef.com/users/vasubhakt)
 
-## 🎉 Fun Fact
-
-Despite the name, **"rustyBot31"** isn’t some forgotten droid from a galaxy far away — it’s just me, shipping clean code and sharp UIs at human speed. 🤖✨
-
----
 
 _Thanks for dropping by — feel free to explore my pinned projects or reach out for collabs!_
