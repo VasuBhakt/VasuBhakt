@@ -5,7 +5,7 @@
 📍 Kolkata, West Bengal, India <br>
 🎓 Jadavpur University  
 
-I love writing code.
+I love writing code. That's it.
 
 ---
 
