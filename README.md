@@ -1,7 +1,7 @@
 # 👋 Hey there, I’m Swastik — a.k.a. `VasuBhakt`
 
 💻 Full‑stack Web & Mobile Developer  
-🌐 Java • Spring Boot • React • Flutter
+🌐 Java • Spring Boot • React • Flutter <br>
 📍 Kolkata, West Bengal, India <br>
 🎓 Jadavpur University  
 
