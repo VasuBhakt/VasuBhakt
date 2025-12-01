@@ -5,7 +5,7 @@
 📍 Kolkata, West Bengal, India <br>
 🎓 Jadavpur University  
 
-I love building products that solve real problems — especially if they're fun, fast, or a bit futuristic.
+I love writing code.
 
 ---
 
