@@ -1,7 +1,7 @@
 # 👋 Hey there, I’m Swastik — a.k.a. `VasuBhakt`
 
 💻 Full‑stack Web & Mobile Developer  
-🌐 Java • Spring Boot • React • React Native  
+🌐 Java • Spring Boot • React • Flutter
 📍 Kolkata, West Bengal, India <br>
 🎓 Jadavpur University  
 
@@ -16,18 +16,13 @@ An AI‑powered email reply generator with tone customization.
 ⚙️ Built using Spring Boot, with Gemini-style model integration. <br>
 Project - https://github.com/rustyBot31/ReplAI
 
-### 🔹 **Calorie‑Compass**
-A React Native + Expo app for logging meals, tracking calories, and getting AI-generated tips.  
-📱 Focused work on: intuitive UI, backend tuning, and smart calorie logic. <br>
-Project - https://github.com/rustyBot31/Calorie-Compass
-
 ---
 
 ## 🛠️ Tech Stack
 
 - **Backend**: Spring Boot, ExpressJS  
-- **Frontend**: React, TypeScript, JavaScript 
-- **Mobile**: React Native (Expo)  
+- **Frontend**: React, TypeScript, JavaScript, Dart
+- **Mobile**: Flutter  
 - **Tools & Platforms**: Firebase, GitHub Actions, MongoDB
 
 ---
