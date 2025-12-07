@@ -13,17 +13,22 @@ I love writing code. That's it.
 
 ### 🔹 **ReplAI**
 An AI‑powered email reply generator with tone customization.  
-⚙️ Built using Spring Boot, with Gemini-style model integration. <br>
-Project - https://github.com/rustyBot31/ReplAI
+⚙️ Built using Spring Boot, with Gemini API integration. <br>
+Project - <a href="https://github.com/VasuBhakt/ReplAI"> ReplAI </a>
+
+### 🔹 **voiceAssistant**
+A Flutter-based AI-powered voice assistant, powered by Gemini.  
+⚙️ Built using Flutter, with Gemini API integration. <br>
+Project - <a href="https://github.com/VasuBhakt/voiceAssistant"> voiceAssistant </a>
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Backend**: Spring Boot, ExpressJS  
+- **Backend**: Spring Boot 
 - **Frontend**: React, TypeScript, JavaScript, Dart
 - **Mobile**: Flutter  
-- **Tools & Platforms**: Firebase, GitHub Actions, MongoDB
+- **Tools & Platforms**: GitHub Actions, MongoDB
 
 ---
 
