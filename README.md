@@ -21,6 +21,11 @@ A Flutter-based AI-powered voice assistant, powered by Gemini.
 ⚙️ Built using Flutter, with Gemini API integration. <br>
 Project - <a href="https://github.com/VasuBhakt/voiceAssistant"> voiceAssistant </a>
 
+### 🔹 **Bloggy**
+Bloggy is a React-based blogging platform built with Appwrite's backend, Algolia's InstantSearch, TinyMCE's text-editing and FramerMotion for UI<br>
+Project - <a href="https://github.com/VasuBhakt/voiceAssistant"> Bloggy GitHub </a><br>
+Web Link - <a href="https://bloggy-madhaava.vercel.app/">Bloggy</a>
+
 ---
 
 ## 🛠️ Tech Stack
