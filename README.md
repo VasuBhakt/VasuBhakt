@@ -30,10 +30,14 @@ Web Link - <a href="https://bloggy-madhaava.vercel.app/">Bloggy</a>
 
 ## 🛠️ Tech Stack
 
-- **Backend**: Spring Boot 
-- **Frontend**: React, TypeScript, JavaScript, Dart
-- **Mobile**: Flutter  
-- **Tools & Platforms**: GitHub Actions, MongoDB
+- **Backend:** Spring Boot  
+- **Frontend:** React, TypeScript, JavaScript  
+- **Mobile:** Flutter (Dart)  
+- **Database:** MongoDB  
+- **CI/CD & Tooling:** GitHub Actions  
+- **Hosting & Deployment:** Vercel  
+- **Services & Integrations:** Appwrite (BaaS), Algolia (Search-as-a-Service)
+
 
 ---
 
