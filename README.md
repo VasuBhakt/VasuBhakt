@@ -21,8 +21,7 @@ Project - <a href="https://github.com/VasuBhakt/voiceAssistant"> Bloggy GitHub <
 Web Link - <a href="https://bloggy-madhaava.vercel.app/">Bloggy</a>
 
 ### 🔹 **voiceAssistant**
-A Flutter-based AI-powered voice assistant, powered by Gemini.  
-⚙️ Built using Flutter, with Gemini API integration. <br>
+A Flutter-based AI-powered voice assistant, powered by Gemini, capable of multi-turn conversations. <br>
 Project - <a href="https://github.com/VasuBhakt/voiceAssistant"> voiceAssistant </a>
 
 ---
