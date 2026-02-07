@@ -12,7 +12,7 @@ I love writing code. That's it.
 
 ### 🔹 **Streamify**
 Streamify is a full-stack video streaming platform built with modern web technologies, offering a comprehensive suite of features for video content creation, management, and consumption.<br>
-Project - <a href="https://github.com/VasuBhakt/Streamify"> ReplAI </a><br>
+Project - <a href="https://github.com/VasuBhakt/Streamify"> Streamify GitHub </a><br>
 Web Link - <a href="https://streamify-maadhava.vercel.app">Streamify</a>
 
 ### 🔹 **Bloggy**
