@@ -1,52 +1,61 @@
-# 👋 Hey there, I’m Swastik — a.k.a. `VasuBhakt`
-
-💻 Full‑stack Web & Mobile Developer  
-📍 Kolkata, West Bengal, India <br>
-🎓 Jadavpur University  
-
-I love writing code. That's it.
+<div align="center">
+  <h1>👋 Hey there, I’m Swastik</h1>
+  <h3>A.K.A. <code>VasuBhakt</code></h3>
+  <p>
+    <img src="https://img.shields.io/badge/Location-Kolkata%2C%20India-blue?style=flat-square&logo=googlemaps&logoColor=white" />
+    <img src="https://img.shields.io/badge/Education-Jadavpur%20University-orange?style=flat-square&logo=googlescholar&logoColor=white" />
+  </p>
+  <p align="center">
+    <i>"I love writing code. That's it."</i>
+  </p>
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 **Streamify**
-Streamify is a full-stack video streaming platform built with modern web technologies, offering a comprehensive suite of features for video content creation, management, and consumption.<br>
-Project - <a href="https://github.com/VasuBhakt/Streamify"> Streamify GitHub </a><br>
-Web Link - <a href="https://streamify-maadhava.vercel.app">Streamify</a>
+### 📽️ [Streamify](https://streamify-maadhava.vercel.app)
+> **Full-stack Video Ecosystem**
+* **The Vibe:** A production-ready YouTube clone with high-performance streaming.
+* **Tech Stack:** `React 19` • `Node.js` • `MongoDB` • `Cloudinary` • `Redux Toolkit`
+* **Links:** [📂 Source Code](https://github.com/VasuBhakt/Streamify) | [🌐 Live Demo](https://streamify-maadhava.vercel.app)
 
-### 🔹 **Bloggy**
-✨ Bloggy is a React-based blogging platform built with Appwrite's backend, Algolia's InstantSearch, TinyMCE's text-editing and FramerMotion for UI<br>
-Project - <a href="https://github.com/VasuBhakt/voiceAssistant"> Bloggy GitHub </a><br>
-Web Link - <a href="https://bloggy-madhaava.vercel.app/">Bloggy</a>
+### ✍️ [Bloggy](https://bloggy-madhaava.vercel.app/)
+> **Smart Blogging Platform**
+* **The Vibe:** Features real-time search with Algolia and rich-text editing.
+* **Tech Stack:** `React` • `Appwrite` • `Algolia` • `TinyMCE` • `Framer Motion`
+* **Links:** [📂 Source Code](https://github.com/VasuBhakt/voiceAssistant) | [🌐 Live Demo](https://bloggy-madhaava.vercel.app/)
 
-### 🔹 **voiceAssistant**
-A Flutter-based AI-powered voice assistant, powered by Gemini, capable of multi-turn conversations. <br>
-Project - <a href="https://github.com/VasuBhakt/voiceAssistant"> voiceAssistant </a>
+### 🎙️ [VoiceAssistant](https://github.com/VasuBhakt/voiceAssistant)
+> **AI-Powered Mobile Assistant**
+* **The Vibe:** Flutter-based AI capable of multi-turn conversations via Google Gemini.
+* **Tech Stack:** `Flutter` • `Dart` • `Google Gemini API`
+* **Links:** [📂 Source Code](https://github.com/VasuBhakt/voiceAssistant)
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Backend:** ExpressJS 
-- **Frontend:** React, TypeScript, JavaScript  
-- **Mobile:** Flutter (Dart)  
-- **Database:** MongoDB  
-- **CI/CD & Tooling:** GitHub Actions, Vercel, Render
+| Category | Skills |
+| :--- | :--- |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
+| **Backend** | ![ExpressJS](https://img.shields.io/badge/-ExpressJS-000000?logo=express&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) |
+| **Mobile** | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white) |
+| **Database** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) |
+| **DevOps** | ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white) |
 
 ---
+
+## 📊 Competitive Programming
+<p align="left">
+  <a href="https://leetcode.com/u/VasuBhakt/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+  <a href="https://codeforces.com/profile/VasuBhakt"><img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" /></a>
+  <a href="https://www.codechef.com/users/vasubhakt"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
+</p>
 
 ## 📫 Let's Connect
+<p align="left">
+  <a href="https://www.linkedin.com/in/swastik-bose/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/swastik-bose/)
-
----
-
-## 💻 Coding Profiles 
-
-- [Codeforces](https://codeforces.com/profile/VasuBhakt)
-- [Leetcode](https://leetcode.com/u/VasuBhakt/)
-- [Codechef](https://www.codechef.com/users/vasubhakt)
-
-
-_Thanks for dropping by — feel free to explore my pinned projects or reach out for collabs!_
