@@ -16,7 +16,7 @@
 
 ### 📽️ [Streamify](https://streamify-maadhava.vercel.app)
 > **Full-stack Video Ecosystem**
-* **The Vibe:** A production-ready YouTube clone with high-performance streaming.
+* **The Vibe:** A production-ready video platform with high-performance streaming.
 * **Tech Stack:** `React 19` • `Node.js` • `MongoDB` • `Cloudinary` • `Redux Toolkit` • `Express`
 * **Links:** [📂 Source Code](https://github.com/VasuBhakt/Streamify) | [🌐 Live Demo](https://streamify-maadhava.vercel.app)
 
