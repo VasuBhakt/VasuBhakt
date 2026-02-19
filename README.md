@@ -24,7 +24,7 @@
 > **Smart Blogging Platform**
 * **The Vibe:** Features real-time search with Algolia and rich-text editing.
 * **Tech Stack:** `React` • `Appwrite` • `Algolia` • `TinyMCE` • `Framer Motion`
-* **Links:** [📂 Source Code](https://github.com/VasuBhakt/voiceAssistant) | [🌐 Live Demo](https://bloggy-madhaava.vercel.app/)
+* **Links:** [📂 Source Code](https://github.com/VasuBhakt/Bloggy) | [🌐 Live Demo](https://bloggy-madhaava.vercel.app/)
 
 ### 🎙️ [VoiceAssistant](https://github.com/VasuBhakt/voiceAssistant)
 > **AI-Powered Mobile Assistant**
