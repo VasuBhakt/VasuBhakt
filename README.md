@@ -14,6 +14,12 @@
 
 ## 🚀 Featured Projects
 
+### 🐙 [Kram](https://github.com/VasuBhakt/Kram)
+> **Lightweight Version Control System**
+* **The Vibe:** A lightweight version control system, that uses a content-addressable storage system (Blobs, Trees, and Commits).
+* **Tech Stack:** `Python`
+* **Links:** [📂 Source Code](https://github.com/VasuBhakt/Kram)
+
 ### 👨‍💻 [DevAll](https://devall-maadhava.vercel.app)
 > **Developer Portfolio Platform**
 * **The Vibe:**: Unified Developer Platform for managing technical portfolio and showcasing professional journey.
@@ -25,13 +31,6 @@
 * **The Vibe:** A production-ready video platform with high-performance streaming.
 * **Tech Stack:** `React 19` • `Node.js` • `MongoDB` • `Cloudinary` • `Redux Toolkit` • `Express` • `BullMQ` • `Redis`
 * **Links:** [📂 Source Code](https://github.com/VasuBhakt/Streamify) | [🌐 Live Demo](https://streamify-maadhava.vercel.app)
-
-### ✍️ [Bloggy](https://bloggy-madhaava.vercel.app/)
-> **Smart Blogging Platform**
-* **The Vibe:** Features real-time search with Algolia and rich-text editing.
-* **Tech Stack:** `React` • `Appwrite` • `Algolia` • `TinyMCE` • `Framer Motion`
-* **Links:** [📂 Source Code](https://github.com/VasuBhakt/Bloggy) | [🌐 Live Demo](https://bloggy-madhaava.vercel.app/)
-
 
 ---
 
