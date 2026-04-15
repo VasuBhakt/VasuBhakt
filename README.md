@@ -16,7 +16,7 @@
 
 ### 🐙 [Kram](https://github.com/VasuBhakt/Kram)
 > **Functional Version Control System**
-* **The Vibe:** A lightweight version control system, that uses a content-addressable storage system (Blobs, Trees, and Commits).
+* **The Vibe:** A functional version control system, that uses a content-addressable storage system (Blobs, Trees, and Commits).
 * **Tech Stack:** `Python`
 * **Links:** [📂 Source Code](https://github.com/VasuBhakt/Kram)
 
