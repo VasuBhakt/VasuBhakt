@@ -20,6 +20,12 @@
 * **Tech Stack:** `Python` • `Version Control`
 * **Links:** [📂 Source Code](https://github.com/VasuBhakt/Kram)
 
+### ⚡ [DrutaDB](https://github.com/VasuBhakt/DrutaDB)
+> **Event-Driven Key-Value Store**
+* **The Vibe:** An event-driven, single-threaded, in-memory key-value data store written in C++23.
+* **Tech Stack:** `C++` • `RESP Protocol` • `TCP Sockets` • `I/O Multiplexing`
+* **Links:** [📂 Source Code](https://github.com/VasuBhakt/DrutaDB)
+
 ### 👨‍💻 [DevAll](https://devall-maadhava.vercel.app)
 > **Developer Portfolio Platform**
 * **The Vibe:**: Unified Developer Platform for managing technical portfolio and showcasing professional journey.
