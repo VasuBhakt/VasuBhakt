@@ -21,9 +21,9 @@
 * **Links:** [📂 Source Code](https://github.com/VasuBhakt/Kram)
 
 ### ⚡ [DrutaDB](https://github.com/VasuBhakt/DrutaDB)
-> **Event-Driven Key-Value Store**
-* **The Vibe:** An event-driven, single-threaded, in-memory key-value data store written in C++23.
-* **Tech Stack:** `C++` • `RESP Protocol` • `TCP Sockets` • `I/O Multiplexing`
+> **Event-Driven Key-Value Store with a Real-Time PubSub Engine**
+* **The Vibe:** An event-driven, single-threaded, in-memory key-value data store and real-time pubsub engine written in C++23.
+* **Tech Stack:** `C++` • `RESP Protocol` • `TCP Sockets` • `I/O Multiplexing` • `Pubsub Engine` • `LRU` • `AOF Persistence`  
 * **Links:** [📂 Source Code](https://github.com/VasuBhakt/DrutaDB)
 
 ### 👨‍💻 [DevAll](https://devall-maadhava.vercel.app)
