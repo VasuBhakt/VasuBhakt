@@ -42,10 +42,10 @@
 
 ## 🌐 Open Source Contributions
 
-You can check out my open-source contributions here : <a href="https://github.com/VasuBhakt/VB-OSS-Contributions">VB-OSS</a><br>
+You can check out my open-source contributions here : [VB-OSS](https://github.com/VasuBhakt/VB-OSS-Contributions)<br>
 Notable projects I have contributed to:
-- <a href="https://github.com/zeek/zeek">Zeek Network Security Monitor</a>
-- <a href="https://github.com/nlohmann/json">JSON for C++</a>
+- [Zeek Network Security Monitor](https://github.com/zeek/zeek)
+- [JSON for C++](https://github.com/nlohmann/json)
 
 ---
 
