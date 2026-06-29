@@ -40,6 +40,15 @@
 
 ---
 
+## 🌐 Open Source Contributions
+
+You can check out my open-source contributions here : <a href="https://github.com/VasuBhakt/VB-OSS-Contributions>VB-OSS</a>
+Notable projects I have contributed to:
+- <a href="https://github.com/zeek/zeek">Zeek Network Security Monitor</a>
+- <a href="https://github.com/nlohmann/json">JSON for C++</a>
+
+---
+
 ## 🛠️ Tech Stack
 
 | Category | Skills |
