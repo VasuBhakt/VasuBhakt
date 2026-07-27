@@ -20,6 +20,12 @@
 * **Tech Stack:** `C++` • `RESP Protocol` • `TCP Sockets` • `I/O Multiplexing` • `Pubsub Engine` • `LRU` • `AOF Persistence` • `Docker`  
 * **Links:** [📂 Source Code](https://github.com/VasuBhakt/DrutaDB)
 
+### 🦅 [Vahak](https://github.com/VasuBhakt/Vahak)
+> **A high-performance Webhook engine.**
+* **The Vibe:** A highly-concurrent, brokerless webhook delivery engine with embedded Javascript payload transformation, written in Go.
+* **Tech Stack:** `Go` • `Postgres` • `Circuit Breaker` • `Channel Batching` • `Embedded JS VM (V8)` • `Connection Pooling` • `Docker` • `React`
+* **Links:** [📂 Source Code](https://github.com/VasuBhakt/Vahak)
+
 ### ⚔️ [Ranabhum](https://github.com/VasuBhakt/Ranabhum)
 > **Distributed Trading Engine Evaluator**
 * **The Vibe:** An event-driven benchmark and real-time telemetry pipeline designed to compile, isolate, stress-test, and score high-performance financial order matching engines.
@@ -31,12 +37,6 @@
 * **The Vibe:** A functional version control system, that uses a content-addressable storage system (Blobs, Trees, and Commits).
 * **Tech Stack:** `Python` • `Version Control`
 * **Links:** [📂 Source Code](https://github.com/VasuBhakt/Kram)
-
-### 📽️ [Streamify](https://streamify-maadhava.vercel.app)
-> **Full-stack Video Ecosystem**
-* **The Vibe:** A production-ready video platform with high-performance streaming.
-* **Tech Stack:** `React 19` • `Node.js` • `MongoDB` • `Cloudinary` • `Redux Toolkit` • `Express` • `BullMQ` • `Redis`
-* **Links:** [📂 Source Code](https://github.com/VasuBhakt/Streamify) | [🌐 Live Demo](https://streamify-maadhava.vercel.app)
 
 ---
 
