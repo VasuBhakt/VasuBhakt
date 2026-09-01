@@ -45,6 +45,7 @@
 You can check out my open-source contributions here : [VB-OSS](https://github.com/VasuBhakt/VB-OSS-Contributions)<br>
 Notable projects I have contributed to:
 - [Zeek Network Security Monitor](https://github.com/VasuBhakt/VB-OSS-Contributions/blob/main/zeek.md)
+- [MariaDB](https://github.com/VasuBhakt/VB-OSS-Contributions/blob/main/mariadb-server.md)
 - [JSON for C++](https://github.com/VasuBhakt/VB-OSS-Contributions/blob/main/nlohmann-json.md)
 - [Microsoft Terminal](https://github.com/VasuBhakt/VB-OSS-Contributions/blob/main/microsoft-terminal.md)
 
