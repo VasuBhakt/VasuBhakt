@@ -1,12 +1,10 @@
 <div align="center">
-  <h1>👋 Hey there, I’m Swastik</h1>
+  <h1>👋 Hey, I'm Swastik</h1>
   <h3>A.K.A. <code>VasuBhakt</code></h3>
+  <p><i>Low-level systems, backend engineering, and infrastructure.</i></p>
   <p>
-    <img src="https://img.shields.io/badge/Location-Kolkata%2C%20India-blue?style=flat-square&logo=googlemaps&logoColor=white" />
-    <img src="https://img.shields.io/badge/Education-Jadavpur%20University-orange?style=flat-square&logo=googlescholar&logoColor=white" />
-  </p>
-  <p align="center">
-    <i>"I love writing code. That's it."</i>
+    <img src="https://img.shields.io/badge/Kolkata%2C_India-blue?style=flat-square&logo=googlemaps&logoColor=white" />
+    <img src="https://img.shields.io/badge/Jadavpur_University-orange?style=flat-square&logo=googlescholar&logoColor=white" />
   </p>
 </div>
 
@@ -14,34 +12,33 @@
 
 ## 🚀 Featured Projects
 
-### ⚡ [DrutaDB](https://github.com/VasuBhakt/DrutaDB)
-> **Event-Driven Key-Value Store with a Real-Time PubSub Engine**
-* **The Vibe:** An event-driven, single-threaded, in-memory key-value data store and real-time pubsub engine written in C++23.
-* **Tech Stack:** `C++` • `RESP Protocol` • `TCP Sockets` • `I/O Multiplexing` • `Pubsub Engine` • `LRU` • `AOF Persistence` • `Docker`  
-* **Links:** [📂 Source Code](https://github.com/VasuBhakt/DrutaDB)
+### ⏱️ [NiyataOS](https://github.com/VasuBhakt/NiyataOS)
+> **Deterministic preemptive RTOS kernel in C++**
+* **Overview:** Preemptive real-time kernel, built host-first with a simulated scheduler, then ported to ARM Cortex-M.
+* **Stack:** `C++` • `CMake` • `GoogleTest` • `ARM Cortex-M`
+* **Links:** [📂 Source](https://github.com/VasuBhakt/NiyataOS)
 
-### 🦅 [Vahak](https://github.com/VasuBhakt/Vahak)
-> **A high-performance Webhook engine.**
-* **The Vibe:** A highly-concurrent, brokerless webhook delivery engine with embedded Javascript payload transformation, written in Go.
-* **Tech Stack:** `Go` • `Postgres` • `Circuit Breaker` • `Channel Batching` • `Embedded JS VM (V8)` • `Connection Pooling` • `Docker` • `React`
-* **Links:** [📂 Source Code](https://github.com/VasuBhakt/Vahak)
+### ⚡ [DrutaDB](https://github.com/VasuBhakt/DrutaDB)
+> **Redis-compatible in-memory store with pub/sub, in C++23**
+* **Overview:** Single-threaded, event-driven key-value store speaking RESP, so `redis-cli` and `redis-benchmark` work against it.
+* **Stack:** `C++23` • `RESP` • `I/O Multiplexing` • `TCP Sockets` • `Docker`
+* **Links:** [📂 Source](https://github.com/VasuBhakt/DrutaDB)
 
 ### ⚔️ [Ranabhum](https://github.com/VasuBhakt/Ranabhum)
-> **Distributed Trading Engine Evaluator**
-* **The Vibe:** An event-driven benchmark and real-time telemetry pipeline designed to compile, isolate, stress-test, and score high-performance financial order matching engines.
-* **Tech Stack:** `Go` • `FastAPI` • `Gin` • `Redis` • `TimescaleDB` • `Redpanda (Kafka)` • `Docker`
-* **Links:** [📂 Source Code](https://github.com/VasuBhakt/Ranabhum)
+> **Distributed evaluator for trading engines**
+* **Overview:** Compiles, isolates, stress-tests, and scores order-matching engines, streaming telemetry through a Kafka-compatible pipeline.
+* **Stack:** `Go` • `Gin` • `FastAPI` • `Redpanda (Kafka)` • `TimescaleDB` • `Redis` • `Docker`
+* **Links:** [📂 Source](https://github.com/VasuBhakt/Ranabhum)
 
-### 🐙 [Kram](https://github.com/VasuBhakt/Kram)
-> **Functional Version Control System**
-* **The Vibe:** A functional version control system, that uses a content-addressable storage system (Blobs, Trees, and Commits).
-* **Tech Stack:** `Python` • `Version Control`
-* **Links:** [📂 Source Code](https://github.com/VasuBhakt/Kram)
+### 🦅 [Vahak](https://github.com/VasuBhakt/Vahak)
+> **Brokerless webhook delivery engine in Go**
+* **Overview:** Concurrent webhook delivery with circuit breakers, channel batching, connection pooling, and user-defined JS payload transforms.
+* **Stack:** `Go` • `PostgreSQL` • `React` • `Docker`
+* **Links:** [📂 Source](https://github.com/VasuBhakt/Vahak)
 
 ---
 
-## 🌐 Open Source Contributions
-
+## 🌐 Open Source Contributions 
 You can check out my open-source contributions here : [VB-OSS](https://github.com/VasuBhakt/VB-OSS-Contributions)<br>
 Notable projects I have contributed to:
 - [Zeek Network Security Monitor](https://github.com/VasuBhakt/VB-OSS-Contributions/blob/main/zeek.md)
@@ -53,29 +50,79 @@ Notable projects I have contributed to:
 
 ## 🛠️ Tech Stack
 
-| Category | Skills |
-| :--- | :--- |
-| **Languages** | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)  ![NextJS](https://img.shields.io/badge/-Nextjs-000000?logo=nextdotjs&logoColor=white) |
-| **Backend** | ![ExpressJS](https://img.shields.io/badge/-ExpressJS-000000?logo=express&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) ![Redpanda](https://img.shields.io/badge/-Redpanda-E1170A?logo=apachekafka&logoColor=white)|
-| **Database** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![TimescaleDB](https://img.shields.io/badge/-TimescaleDB-FDB515?logo=timescaledb&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)|
-| **DevOps** |![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)|
-| **Systems Programming** | ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white) ![POSIX](https://img.shields.io/badge/-POSIX%20Sockets-gray?logo=linux&logoColor=white) ![Redis](https://img.shields.io/badge/-RESP%20Protocol-DC382D?logo=redis&logoColor=white) ![Git](https://img.shields.io/badge/-Git%20Internals-F05032?logo=git&logoColor=white) |
+<table>
+  <tr>
+    <td><b>⚙️ Systems</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+      <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+      <img src="https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" />
+      <img src="https://img.shields.io/badge/-GoogleTest-4285F4?style=flat-square&logo=google&logoColor=white" />
+      <img src="https://img.shields.io/badge/-POSIX_Sockets-555555?style=flat-square&logo=linux&logoColor=white" />
+      <img src="https://img.shields.io/badge/-ARM_Cortex--M-0091BD?style=flat-square&logo=arm&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🌐 Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Gin-008ECF?style=flat-square&logo=gin&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>📡 Messaging</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Redpanda-E1170A?style=flat-square&logo=redpanda&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🗄️ Data</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/-TimescaleDB-FDB515?style=flat-square&logo=timescale&logoColor=black" />
+      <img src="https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+      <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🎨 Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🚀 DevOps</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 
-
 ## 📊 Competitive Programming
-<p align="left">
-  <a href="https://leetcode.com/u/VasuBhakt/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
-  <a href="https://codeforces.com/profile/VasuBhakt"><img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" /></a>
-  <a href="https://www.codechef.com/users/vasubhakt"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
+
+<p>
+  <a href="https://leetcode.com/u/VasuBhakt/"><img src="https://img.shields.io/badge/LeetCode-KNIGHT_-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://codeforces.com/profile/VasuBhakt"><img src="https://img.shields.io/badge/Codeforces-SPECIALIST_-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
 </p>
+
+---
 
 ## 📫 Let's Connect
-<p align="left">
-  <a href="https://www.linkedin.com/in/swastik-bose/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
 
+<p>
+  <a href="https://www.linkedin.com/in/swastik-bose/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" /></a>
+  <a href="mailto:cpswastik31@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
